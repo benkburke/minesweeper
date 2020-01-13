@@ -1,0 +1,11 @@
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.exe
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.deps.json
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.runtimeconfig.json
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.runtimeconfig.dev.json
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.dll
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\bin\Debug\netcoreapp3.1\Minesweeper.pdb
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.csprojAssemblyReference.cache
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.AssemblyInfo.cs
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.dll
+C:\Users\ben\Source\Public\minesweeper\Minesweeper\obj\Debug\netcoreapp3.1\Minesweeper.pdb
